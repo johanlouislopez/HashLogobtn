@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gradient_top">#6C7EF0</color>
+    <color name="gradient_mid">#4457D6</color>
+    <color name="gradient_bottom">#0A0F3D</color>
+
+    <color name="accent_blue">#5B7CFA</color>
+    <color name="accent_blue_light">#8FA6FF</color>
+    <color name="icon_bg_top">#7C9CFF</color>
+    <color name="icon_bg_bottom">#4A63E0</color>
+
+    <color name="text_dark">#111633</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_light_gray">#D6DCFF</color>
+    <color name="pill_background">#EDEFFC</color>
+    <color name="pill_text">#4457D6</color>
+
+    <color name="button_login_bg">#5B7CFA</color>
+    <color name="button_outline_border">#5B7CFA</color>
+    <color name="transparent">#00000000</color>
+</resources>
